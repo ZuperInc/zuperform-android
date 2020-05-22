@@ -2,7 +2,7 @@
 
 ### Zuperform helps you maintain compliance, create a zuper safe environment for your team and your customers.
 
-Zuperform is open for signup at [ZuperCC](https://zupercc.zuper.c) . You can signup, choose your industry vertical and use an existing template to quickly create complaince checklists.
+Zuperform is open for signup at [ZuperCC](https://zuper.co) . You can signup, choose your industry vertical and use an existing template to quickly create complaince checklists.
 
 Zuperform Android SDK let's you add this feature to your existing app with minimal effort. Once you are signed up, just follow the below steps to quickly have this feature embedded in your app.
 
@@ -15,7 +15,7 @@ An iOS variant is also available at [Zuperform-iOS](https://github.com/Zupersoft
 1. To add Zuperform to your app, just add the below dependency to your app's `build.gradle` file
 ```groovy
 dependencies {
-    implementation 'co.zuper.android:zuperform:1.1.0'
+    implementation 'co.zuper.android:zuperform:1.0.9'
 }
 ```
 
